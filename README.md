@@ -5,6 +5,7 @@ API RESTful desenvolvida em **Node.js + Express**, publicada na **Vercel**, para
 ## 🚀 Links da Entrega
 - **Repositório GitHub:** [https://github.com/carlinhosborba/AOS2025-2-atividade-tarefas](https://github.com/carlinhosborba/AOS2025-2-atividade-tarefas)
 - **API no Vercel:** [https://aos-2025-2-atividade-tarefas.vercel.app](https://aos-2025-2-atividade-tarefas.vercel.app)
+- **Vídeo no YouTube:** [https://www.youtube.com/watch?v=rQhCwDzZS6c](https://www.youtube.com/watch?v=rQhCwDzZS6c)
 
 ### Endpoints principais
 - **GET /** → Healthcheck  
@@ -46,13 +47,6 @@ Servidor disponível em [http://localhost:3000](http://localhost:3000).
    - GET `/tarefas/:id` → busca específica  
    - PUT `/tarefas/:id` → atualizar  
    - DELETE `/tarefas/:id` → remover  
-
----
-
-## 🎥 Vídeo de Demonstração
-
-Link para vídeo no YouTube (até 1 min) mostrando os testes no Postman:  
-👉 *[https://youtu.be/rQhCwDzZS6c]*
 
 ---
 
